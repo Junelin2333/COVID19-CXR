@@ -7,8 +7,11 @@ Thanks to these dataset, the COVID-19-CXR Dateset is combined by these public/op
 3. Chung, A. Actualmed COVID-19 chest x-ray data initiative[EB/OL]. https://github.com/agchung/Actualmed-COVID-chestxray-dataset.  
 4. P. Mooney. Chest X-Ray Images (Pneumonia)[EB/OL]. https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia  
 
-The COVID-19-CXR Dataset is waiting to upload to this github repository, before then you could download from this Goolge Drive link or Tianyi Drive link: https://drive.google.com/drive/folders/15DnLoaZEM3d6WjtLWiiT_3IMFCibdQrJ?usp=sharing
+The COVID-19-CXR Dataset is waiting to upload to this github repository, before then you could download from this Goolge Drive link:
+https://drive.google.com/drive/folders/15DnLoaZEM3d6WjtLWiiT_3IMFCibdQrJ?usp=sharing
 
-## Model  
-The Model is introduced in this paper: “Using Deep Convolutional Neural Networks To Diagnose COVID-19 From Chest X-Ray Images”, but the paper hasn‘t been published, maybe you could search this paper in the feature(Who knows!).
+## About my model and paper 
+
+Title: Using Deep Convolutional Neural Networks to Diagnose COVID-19 From Chest X-Ray Images
+Link: https://arxiv.org/abs/2007.09695
 
