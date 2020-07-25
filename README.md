@@ -11,7 +11,7 @@ The COVID-19-CXR Dataset is waiting to upload to this github repository, before 
 https://drive.google.com/drive/folders/15DnLoaZEM3d6WjtLWiiT_3IMFCibdQrJ?usp=sharing
 
 ## My Paper
-### Using Deep Convolutional Neural Networks to Diagnose COVID-19 From Chest X-Ray Images
+### <center> Using Deep Convolutional Neural Networks to Diagnose COVID-19 From Chest X-Ray Images </center>
 
 **Abstract**: The COVID-19 epidemic has become a major safety and health threat worldwide. Imaging diagnosis is one of the most effective ways to screen COVID-19. This project utilizes several open-source or public datasets to present an open-source dataset of COVID-19 CXRs, named COVID-19-CXR-Dataset, and introduces a deep convolutional neural network model. The model validates on 740 test images and achieves 87.3% accuracy, 89.67 % precision, and 84.46% recall, and correctly classifies 98 out of 100 COVID-19 x-ray images in test set with more than 81%  prediction probability under the condition of 95% confidence interval. This project may serve as a reference for other researchers aiming to advance the development of deep learning applications in medical imaging.
 
@@ -21,3 +21,15 @@ https://drive.google.com/drive/folders/15DnLoaZEM3d6WjtLWiiT_3IMFCibdQrJ?usp=sha
 
 **Read/Download my paper on arXiv**: https://arxiv.org/abs/2007.09695
 
+**Some figures and tables in paper**: 
+![Figure1 & 2: Two Samples in Dataset](https://github.com/ZY-ZRY/COVID19-CXR/blob/master/assets/figure1.png)
+
+![Table1: COVID-19 CXR Dataset catagory distribution](https://github.com/ZY-ZRY/COVID19-CXR/blob/master/assets/table1.png)
+
+![Figure3: DCNN model proposed in this paper](https://github.com/ZY-ZRY/COVID19-CXR/blob/master/assets/covid19_87_97.png)
+
+![Table3: Metrics](https://github.com/ZY-ZRY/COVID19-CXR/blob/master/assets/table3.png)
+
+![Table4: Category prediction probability of Test Set under 95% confidence interval](https://github.com/ZY-ZRY/COVID19-CXR/blob/master/assets/table4.png)
+
+![Figure4: Confuse Matrix](https://github.com/ZY-ZRY/COVID19-CXR/blob/master/assets/cm.png)
