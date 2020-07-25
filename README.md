@@ -22,6 +22,7 @@ https://drive.google.com/drive/folders/15DnLoaZEM3d6WjtLWiiT_3IMFCibdQrJ?usp=sha
 **Read/Download my paper on arXiv**: https://arxiv.org/abs/2007.09695
 
 **Some figures and tables in paper**: 
+
 ![Figure1 & 2: Two Samples in Dataset](https://github.com/ZY-ZRY/COVID19-CXR/blob/master/assets/figure1.png)
 
 ![Table1: COVID-19 CXR Dataset catagory distribution](https://github.com/ZY-ZRY/COVID19-CXR/blob/master/assets/table1.png)
