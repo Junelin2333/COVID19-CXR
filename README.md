@@ -18,3 +18,6 @@ https://drive.google.com/drive/folders/15DnLoaZEM3d6WjtLWiiT_3IMFCibdQrJ?usp=sha
 **Keywords**: COVID-19 virus; X-Ray images; Deep Convolutional Neural Network; Deep Learning
 
 **Reference/Citation Format**: Zhong Y. Using Deep Convolutional Neural Networks to Diagnose COVID-19 From Chest X-Ray Images[J]. arXiv preprint arXiv:2007.09695, 2020.
+
+**Read/Download my paper on arXiv**: https://arxiv.org/abs/2007.09695
+
