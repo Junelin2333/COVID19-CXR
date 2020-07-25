@@ -1,4 +1,4 @@
-# COVID-19-CXR:A Special And Simple DCNN Models
+# COVID-19-CXR: A Special And Simple DCNN Models
 ## Dateset 
 COVID-19-CXR Dataset, which contains 6,354 CXRs, divided into train set and test set, both include include COVID19, NORMAL, PNEUMONIA
 Thanks to these dataset, the COVID-19-CXR Dateset is combined by these public/open source datasets!  
